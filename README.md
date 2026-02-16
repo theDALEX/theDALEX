@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, economics, business & art.
 - 🌱 I’m currently studying Computer Science
 
-- 🌐 Website
+- 🌐
 Visit my personal website here: [click me!](https://thedalex.github.io)
 
 <!---
