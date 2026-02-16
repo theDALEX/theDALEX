@@ -1,4 +1,4 @@
--👋 Hi, I’m @theDALEX
+- 👋 Hi, I’m @theDALEX
 - 👀 I’m interested in technology, economics, business & art.
 - 🌱 I’m currently studying Computer Science
 
