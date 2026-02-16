@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @theDALEX
-- 👀 I’m interested in technology & business
+#👋 Hi, I’m @theDALEX
+- 👀 I’m interested in technology, economics, business & art.
 - 🌱 I’m currently studying Computer Science
+
+# 🌐 Website
+Visit my personal website here: [click me!](https://thedalex.github.io)
 
 <!---
 theDALEX/theDALEX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
