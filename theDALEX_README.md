@@ -1,9 +1,9 @@
 # 👋 Hey, I'm @theDALEX
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  T E C H   ×   E C O N O M I C S   ×   A R T        ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║  T E C H N O L O G Y   ×   E C O N O M I C S   ×   A R T    ×   B U S I N E S S    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -14,22 +14,6 @@
 
 ---
 
-## `$ whoami`
-
-> A curious mind orbiting the intersection of **technology**, **economics**, **business**, and **art** — convinced the best ideas live where disciplines collide.
-
----
-
-## 📡 Interests
-
-| Domain | What I'm Into |
-|---|---|
-| 💻 **Technology** | Software, AI, systems thinking |
-| 📈 **Economics** | Markets, incentive structures, macro |
-| 🏢 **Business** | Strategy, startups, product |
-| 🎨 **Art** | Visual culture, design, creativity |
-
----
 
 ## 🌐 Find me online
 
@@ -53,8 +37,5 @@
 
 <div align="center">
 
-*"The most interesting things happen at the edges."*
+*"We can reach heaven not by living a good life and dying, but by creating heaven here on Earth through technology, science and creativity - DX"*
 
-![Profile views](https://komarev.com/ghpvc/?username=theDALEX&color=6E40C9&style=flat-square)
-
-</div>
